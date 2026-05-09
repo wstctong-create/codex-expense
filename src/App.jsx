@@ -138,7 +138,7 @@ function App() {
       <section className="summary">
         <div>
           <p className="eyebrow">Expense Tracker</p>
-          <h1>个人记账</h1>
+          <h1>Chao&apos;s expense App</h1>
         </div>
         <div className="total-panel" aria-label="总支出金额">
           <span>总支出</span>
